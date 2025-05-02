@@ -121,4 +121,4 @@ def suma(a,b):
     time.sleep(1)
     return a + b
 
-suma(2,2)
+print(suma(2,2))
